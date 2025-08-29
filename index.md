@@ -1,4 +1,5 @@
-# Liam Monaghan
-#### CS @ Purdue
+# Liam Monaghan's First CS193 Homework
 
-I'm a computer science student at **Purdue University**.
+### Favorite things about CS193
+- I get to learn about GitHub
+- I get to use the terminal
